@@ -1,0 +1,6 @@
+/Users/tugberk/Desktop/Kurslar/WebProgNewTech/src/CSharp/Sample/Sample/bin/Debug/Sample.exe
+/Users/tugberk/Desktop/Kurslar/WebProgNewTech/src/CSharp/Sample/Sample/bin/Debug/Sample.pdb
+/Users/tugberk/Desktop/Kurslar/WebProgNewTech/src/CSharp/Sample/Sample/obj/x86/Debug/Sample.csprojAssemblyReference.cache
+/Users/tugberk/Desktop/Kurslar/WebProgNewTech/src/CSharp/Sample/Sample/obj/x86/Debug/Sample.csproj.CoreCompileInputs.cache
+/Users/tugberk/Desktop/Kurslar/WebProgNewTech/src/CSharp/Sample/Sample/obj/x86/Debug/Sample.exe
+/Users/tugberk/Desktop/Kurslar/WebProgNewTech/src/CSharp/Sample/Sample/obj/x86/Debug/Sample.pdb

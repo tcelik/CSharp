@@ -1,0 +1,6 @@
+/Users/tugberk/Desktop/Kurslar/WebProgNewTech/src/VisualStudioProjects/001-LambdaExpression/001-LambdaExpression/bin/Debug/001-LambdaExpression.exe
+/Users/tugberk/Desktop/Kurslar/WebProgNewTech/src/VisualStudioProjects/001-LambdaExpression/001-LambdaExpression/bin/Debug/001-LambdaExpression.pdb
+/Users/tugberk/Desktop/Kurslar/WebProgNewTech/src/VisualStudioProjects/001-LambdaExpression/001-LambdaExpression/obj/x86/Debug/001-LambdaExpression.csprojAssemblyReference.cache
+/Users/tugberk/Desktop/Kurslar/WebProgNewTech/src/VisualStudioProjects/001-LambdaExpression/001-LambdaExpression/obj/x86/Debug/001-LambdaExpression.csproj.CoreCompileInputs.cache
+/Users/tugberk/Desktop/Kurslar/WebProgNewTech/src/VisualStudioProjects/001-LambdaExpression/001-LambdaExpression/obj/x86/Debug/001-LambdaExpression.exe
+/Users/tugberk/Desktop/Kurslar/WebProgNewTech/src/VisualStudioProjects/001-LambdaExpression/001-LambdaExpression/obj/x86/Debug/001-LambdaExpression.pdb
